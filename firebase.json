@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "choi3179-jenkins-vue",
+    "public": "dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
